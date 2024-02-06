@@ -19,7 +19,7 @@
   "license": "MIT",
   "dependencies": {
     "node-fetch": "^2.6.1",
-    "wretch": "^1.7.4"
+    "wretch": "^2.8.0"
   },
   "devDependencies": {
     "@types/jest": "^27.0.0",
